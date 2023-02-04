@@ -1,1 +1,1 @@
-# training_callback
+# Treinando lógica de callbacks
